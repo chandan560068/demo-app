@@ -1,15 +1,15 @@
-package com.hackathon.socgen;
+// package com.hackathon.socgen;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class SocgenApplicationTests {
+// @SpringBootTest
+// class SocgenApplicationTests {
 
-	@Test
-	void contextLoads() {
-		System.out.println("The test is executing !!!!");
-	}
+// 	@Test
+// 	void contextLoads() {
+// 		System.out.println("The test is executing !!!!");
+// 	}
 	
 
-}
+// }
